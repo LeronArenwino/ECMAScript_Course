@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Francisco Dueñas <frsduenasca@unal.edu.co>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
